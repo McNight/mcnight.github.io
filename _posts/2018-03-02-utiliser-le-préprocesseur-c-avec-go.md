@@ -16,4 +16,4 @@ Ubuntu) que [voici][3].
 
 [1]:	https://gist.github.com/dgryski/a8353cb0977641f1feb6db1b8ed0eaf7 "Gist"
 [2]:	https://asciinema.org "asciinema"
-[2]:	https://asciinema.org/a/166221 "Go CPP"
+[3]:	https://asciinema.org/a/166221 "Go CPP"
